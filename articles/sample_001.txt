@@ -1,0 +1,14 @@
+[ID]
+sample_001
+
+[ARTICLE]
+The gold dollar had a brief resurrection during the period of Early United States commemorative coins . Between 1903 and 1922 nine different issues were produced , with a total mintage of 99 @,@ 799 . These were minted for various public events , did not circulate , and none used Longacre 's design .
+
+[QUESTION]
+What was the total mintage of the gold dollar coins produced between 1903 and 1922?
+
+[OPTIONS]
+A. 99,801
+B. 99,800
+C. 99,799
+D. 99,798

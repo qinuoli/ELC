@@ -1,0 +1,14 @@
+[ID]
+sample_006
+
+[ARTICLE]
+The development of an enantioselective ( i.e. yielding an enantiomeric excess , which is labelled as " ee " ) variant of the Johnson – Corey – Chaykovsky reaction remains an active area of academic research . The use of chiral sulfides in a stoichiometric fashion has proved more successful than the corresponding catalytic variants , but the substrate scope is still limited in all cases . The catalytic variants have been developed almost exclusively for enantioselective purposes ; typical organosulfide reagents are not prohibitively expensive and the racemic reactions can be carried out with equimolar amounts of ylide without raising costs significantly . Chiral sulfides , on the other hand , are more costly to prepare , spurring the advancement of catalytic enantioselective methods .
+
+[QUESTION]
+What type of reagents are typically used in racemic Johnson–Corey–Chaykovsky reactions without significantly increasing costs?
+
+[OPTIONS]
+A. stoichiometric chiral sulfides
+B. equimolar amounts of ylide
+C. catalytic enantioselective methods
+D. chiral sulfides

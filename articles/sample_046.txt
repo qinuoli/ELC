@@ -1,0 +1,14 @@
+[ID]
+sample_046
+
+[ARTICLE]
+Flower Fairies of the Winter ; Blackie , 1985 Simon the Swan ; Blackie , 1988 Flower Fairies of the Seasons ; Bedrick / Blackie , 1988 A Little Book of Prayers and Hymns ; Frederick Warne , 1994 A Flower Fairies Treasury ; Frederick Warne , 1997 Fairyopolis ; Frederick Warne , 2005 Wild Cherry Makes A Wish ; ( collaboration with Pippa Le Quesne ) Frederick Warne , 2006 How to find Flower Fairies ; Frederick Warne , 2007 Return to Fairyopolis ; Frederick Warne , 2008
+
+[QUESTION]
+Which publisher released 'A Flower Fairies Treasury' in 1997?
+
+[OPTIONS]
+A. Blackie
+B. Pippa Le Quesne
+C. Frederick Warne
+D. Bedrick / Blackie

@@ -1,0 +1,14 @@
+[ID]
+sample_036
+
+[ARTICLE]
+Leukemia is rarely associated with pregnancy , affecting only about 1 in 10 @,@ 000 pregnant women . How it is handled depends primarily on the type of leukemia . Acute leukemias normally require prompt , aggressive treatment , despite significant risks of pregnancy loss and birth defects , especially if chemotherapy is given during the developmentally sensitive first trimester .
+
+[QUESTION]
+What is the approximate incidence of leukemia in pregnant women according to the passage?
+
+[OPTIONS]
+A. 1 in 1,000
+B. 1 in 10,000
+C. 1 in 5,000
+D. 1 in 20,000

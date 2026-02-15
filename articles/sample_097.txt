@@ -1,0 +1,14 @@
+[ID]
+sample_097
+
+[ARTICLE]
+Fairies became a popular theme in art and literature in the early 20th century following the releases of The Coming of the Fairies by Sir Arthur Conan Doyle , Peter Pan by J.M. Barrie , and the fairy @-@ themed work of Australian Ida Rentoul Outhwaite . Queen Mary made such themes even more popular by sending Outhwaite postcards to friends during the 1920s . In 1918 , Barker produced a postcard series depicting elves and fairies . In 1923 , Barker sent her flower fairy paintings to various publishers . Blackie paid £ 25 for 24 paintings with accompanying verses , but it wasn 't until publication of Flower Fairies of the Summer in 1925 that Barker received royalties for her work . Mary Violet Clayton Calthrop , wife of author Dion Clayton Calthrop , wrote in April 1925 about Barker and Flower Fairies of the Spring : " She has such exquisite taste , besides draughtsmanship . "
+
+[QUESTION]
+Which publisher paid £25 for 24 of Barker's flower fairy paintings with accompanying verses?
+
+[OPTIONS]
+A. Conan Doyle
+B. Outhwaite
+C. Blackie
+D. Barker

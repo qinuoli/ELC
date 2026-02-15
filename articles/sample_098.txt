@@ -1,0 +1,14 @@
+[ID]
+sample_098
+
+[ARTICLE]
+Galveston Symphony Orchestra Galveston is home to the Galveston Symphony Orchestra , an ensemble of amateur and professional musicians formed in 1979 under the direction of Richard W. Pickar , Musical Director @-@ Conductor . Galveston Ballet The Galveston Ballet is a regional pre @-@ professional ballet company and academy serving Galveston county . The company presents one full @-@ length classical ballet in the spring of each year and one mixed repertory program in the fall , both presented at the Grand 1894 Opera House .
+
+[QUESTION]
+What is the name of the venue where the Galveston Ballet presents its performances?
+
+[OPTIONS]
+A. Island Theatre
+B. Grand 1894 Opera House
+C. Texas Performing Arts Center
+D. Galveston Symphony Hall

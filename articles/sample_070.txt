@@ -1,0 +1,14 @@
+[ID]
+sample_070
+
+[ARTICLE]
+Toniná had a particularly active Early Classic presence , although the Early Classic remains lie entirely buried under later construction . Due to this , early texts are scarce and only offer a glimpse of the early history of the site . An 8th @-@ century text refers to a king ruling in AD 217 , although it only mentions his title , not his name . Ruler 1 is depicted on a couple of Early Classic monuments , the better preserved of which is an altar that dates to 514 . A ruler known as Jaguar Bird Peccary is represented on a 6th @-@ century stela , which describes him acceding to the throne in 568 . The first mention of Toniná in a record from a foreign state is from the site of Chinikiha , located 72 kilometres ( 45 mi ) to the northeast on the Usumacinta River , the text is from a throne and describes the capture of a person from Toniná in 573 .
+
+[QUESTION]
+What year is mentioned in the text regarding a king ruling at Toniná?
+
+[OPTIONS]
+A. 514
+B. 217
+C. 568
+D. 573

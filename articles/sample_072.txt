@@ -1,0 +1,14 @@
+[ID]
+sample_072
+
+[ARTICLE]
+In some studies , age > 60 years and elevated lactate dehydrogenase level were also associated with poorer outcomes . As with most forms of cancer , performance status ( i.e. the general physical condition and activity level of the person ) plays a major role in prognosis as well .
+
+[QUESTION]
+Which factor was associated with poorer outcomes in some studies according to the passage?
+
+[OPTIONS]
+A. poor performance status
+B. age > 60 years
+C. general physical condition
+D. elevated lactate dehydrogenase level

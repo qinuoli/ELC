@@ -1,0 +1,14 @@
+[ID]
+sample_074
+
+[ARTICLE]
+The site museum is located 300 metres ( 980 ft ) outside of the Toniná archaeological zone . It possesses 2 exhibition rooms and a conference room . The first room explains the pyramidal form of the acropolis and how it relates to Maya mythology , while the main room contains sculptures of the city 's rulers . Artefacts in the collection include stone sculptures , ceramics and artefacts sculpted from bone , shell , obsidian and flint . The pieces in the museum graphically depict the two sides of the power exercised by Toniná , on the one hand with sculptures of the city 's rulers and on the other with its depictions of bound prisoners of war .
+
+[QUESTION]
+What type of artefacts are included in the museum's collection besides stone sculptures and ceramics?
+
+[OPTIONS]
+A. gold, jade, copper, and silver
+B. marble, granite, limestone, and sandstone
+C. bone, shell, obsidian, and flint
+D. wood, clay, metal, and glass

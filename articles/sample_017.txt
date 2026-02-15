@@ -1,0 +1,14 @@
+[ID]
+sample_017
+
+[ARTICLE]
+Oxford won the toss and elected to start from the Surrey station , handing the Middlesex side of the river to Cambridge . In good conditions , umpire Willan got the race under way at 2 : 00 p.m. whereupon Cambridge took the lead immediately . By Craven Steps they were three lengths ahead and continued to draw away from the Dark Blues , to win by 20 lengths in a time of 18 minutes 45 seconds . It was the fastest winning time in the history of the event , equalling that set by Oxford in the 1893 race . Although it was the Light Blues ' second consecutive victory , it followed a run of nine consecutive wins for Oxford – overall the Dark Blues led 32 – 24 .
+
+[QUESTION]
+What was the winning time for Cambridge in the race?
+
+[OPTIONS]
+A. 20 minutes 00 seconds
+B. 18 minutes 45 seconds
+C. 17 minutes 30 seconds
+D. 19 minutes 10 seconds

@@ -1,0 +1,14 @@
+[ID]
+sample_058
+
+[ARTICLE]
+The issue of synonyms is complicated by the type specimen of Allosaurus fragillis ( catalogue number YPM 1930 ) being extremely fragmentary , consisting of a few incomplete vertebrae , limb bone fragments , rib fragments , and a tooth . Because of this , several scientists have noted that the type specimen , and thus the genus Allosaurus itself or at least the species A. fragillis , is technically a nomen dubium ( " dubious name " , based on a specimen too incomplete to compare to other specimens or to classify ) . In an attempt to fix this situation , Gregory S. Paul and Kenneth Carpenter ( 2010 ) submitted a petition to the ICZN to have the name A. fragillis officially transferred to the more complete specimen USNM4734 ( as a neotype ) . This request is currently pending review .
+
+[QUESTION]
+Which specimen was proposed as a neotype for Allosaurus fragillis in a 2010 petition?
+
+[OPTIONS]
+A. a few incomplete vertebrae
+B. USNM4734
+C. YPM 1930
+D. catalogue number YPM 1930

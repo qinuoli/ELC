@@ -1,0 +1,14 @@
+[ID]
+sample_002
+
+[ARTICLE]
+St. Cecily 's Garden ; 1920 Cradle roll design ; St. Edmund 's , Pitlake , 1922 Banner design ; St. Mary 's , Sanderstead , 1923 The Feeding of the Five Thousand ; reredos triptych , chapel at Penarth , Wales ; 1929 The Parable of the Great Supper ; triptych , St. George 's chapel , Waddon The Seven Sacraments ; baptismal font panels , St. Andrew 's , Croydon St. John the Baptist ; central banner panel , Abesford church , 1943 Lettering , sword , and shield ; mount for a list of men and woman serving in the Forces , St. Andrews , Croydon , 1943 Baptismal rolls ; St. Andrews , Croydon , 1948 , 1962 The font in St Andrew 's Church , South Croydon Out of Great Tribulation ; memorial chapel , Norbury Medthodist church , 1948 I Am Among You As He That Serveth ; stained glass window design , St. Edmund 's , Pitlake , 1962
+
+[QUESTION]
+Which stained glass window design was created in 1962 at St. Edmund's, Pitlake?
+
+[OPTIONS]
+A. The Feeding of the Five Thousand
+B. Out of Great Tribulation
+C. The Parable of the Great Supper
+D. I Am Among You As He That Serveth

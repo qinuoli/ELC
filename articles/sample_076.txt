@@ -1,0 +1,14 @@
+[ID]
+sample_076
+
+[ARTICLE]
+In addition to the reactions originally reported by Johnson , Corey , and Chaykovsky , sulfur ylides have been used for a number of related homologation reactions that tend to be grouped under the same name . With epoxides and aziridines the reaction serves as a ring @-@ expansion to produce the corresponding oxetane or azetidine . The long reaction times required for these reactions prevent them from occurring as significant side reactions when synthesizing epoxides and aziridines . Several cycloadditions wherein the ylide serves as a " nucleophilic carbenoid equivalent " have been reported . Living polymerizations using trialkylboranes as the catalyst and ( dimethyloxosulfaniumyl ) methanide as the monomer have been reported for the synthesis of various complex polymers .
+
+[QUESTION]
+What is the monomer used in living polymerizations reported in the passage?
+
+[OPTIONS]
+A. aziridine
+B. epoxide
+C. (dimethyloxosulfaniumyl) methanide
+D. sulfur ylide

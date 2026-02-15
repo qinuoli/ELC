@@ -1,0 +1,710 @@
+{
+  "input": "/home/liqinuo/Escape_LLM/DATAGet/wikitext2_mcq_100_qwen.json",
+  "out_dir": "/home/liqinuo/Escape_LLM/LBSlist/articles",
+  "count_in_file": 100,
+  "written": 100,
+  "skipped": 0,
+  "missing_id": 0,
+  "items": {
+    "sample_001": {
+      "file": "/home/liqinuo/Escape_LLM/LBSlist/articles/sample_001.txt",
+      "article_chars": 397,
+      "question_chars": 83,
+      "has_options": true,
+      "total_chars": 476
+    },
+    "sample_002": {
+      "file": "/home/liqinuo/Escape_LLM/LBSlist/articles/sample_002.txt",
+      "article_chars": 919,
+      "question_chars": 79,
+      "has_options": true,
+      "total_chars": 1094
+    },
+    "sample_003": {
+      "file": "/home/liqinuo/Escape_LLM/LBSlist/articles/sample_003.txt",
+      "article_chars": 922,
+      "question_chars": 65,
+      "has_options": true,
+      "total_chars": 1103
+    },
+    "sample_004": {
+      "file": "/home/liqinuo/Escape_LLM/LBSlist/articles/sample_004.txt",
+      "article_chars": 595,
+      "question_chars": 93,
+      "has_options": true,
+      "total_chars": 714
+    },
+    "sample_005": {
+      "file": "/home/liqinuo/Escape_LLM/LBSlist/articles/sample_005.txt",
+      "article_chars": 798,
+      "question_chars": 63,
+      "has_options": true,
+      "total_chars": 977
+    },
+    "sample_006": {
+      "file": "/home/liqinuo/Escape_LLM/LBSlist/articles/sample_006.txt",
+      "article_chars": 933,
+      "question_chars": 126,
+      "has_options": true,
+      "total_chars": 1093
+    },
+    "sample_007": {
+      "file": "/home/liqinuo/Escape_LLM/LBSlist/articles/sample_007.txt",
+      "article_chars": 642,
+      "question_chars": 53,
+      "has_options": true,
+      "total_chars": 790
+    },
+    "sample_008": {
+      "file": "/home/liqinuo/Escape_LLM/LBSlist/articles/sample_008.txt",
+      "article_chars": 850,
+      "question_chars": 102,
+      "has_options": true,
+      "total_chars": 971
+    },
+    "sample_009": {
+      "file": "/home/liqinuo/Escape_LLM/LBSlist/articles/sample_009.txt",
+      "article_chars": 830,
+      "question_chars": 103,
+      "has_options": true,
+      "total_chars": 919
+    },
+    "sample_010": {
+      "file": "/home/liqinuo/Escape_LLM/LBSlist/articles/sample_010.txt",
+      "article_chars": 927,
+      "question_chars": 77,
+      "has_options": true,
+      "total_chars": 1020
+    },
+    "sample_011": {
+      "file": "/home/liqinuo/Escape_LLM/LBSlist/articles/sample_011.txt",
+      "article_chars": 709,
+      "question_chars": 69,
+      "has_options": true,
+      "total_chars": 804
+    },
+    "sample_012": {
+      "file": "/home/liqinuo/Escape_LLM/LBSlist/articles/sample_012.txt",
+      "article_chars": 798,
+      "question_chars": 82,
+      "has_options": true,
+      "total_chars": 903
+    },
+    "sample_013": {
+      "file": "/home/liqinuo/Escape_LLM/LBSlist/articles/sample_013.txt",
+      "article_chars": 786,
+      "question_chars": 79,
+      "has_options": true,
+      "total_chars": 851
+    },
+    "sample_014": {
+      "file": "/home/liqinuo/Escape_LLM/LBSlist/articles/sample_014.txt",
+      "article_chars": 610,
+      "question_chars": 33,
+      "has_options": true,
+      "total_chars": 707
+    },
+    "sample_015": {
+      "file": "/home/liqinuo/Escape_LLM/LBSlist/articles/sample_015.txt",
+      "article_chars": 297,
+      "question_chars": 48,
+      "has_options": true,
+      "total_chars": 378
+    },
+    "sample_016": {
+      "file": "/home/liqinuo/Escape_LLM/LBSlist/articles/sample_016.txt",
+      "article_chars": 431,
+      "question_chars": 50,
+      "has_options": true,
+      "total_chars": 617
+    },
+    "sample_017": {
+      "file": "/home/liqinuo/Escape_LLM/LBSlist/articles/sample_017.txt",
+      "article_chars": 726,
+      "question_chars": 52,
+      "has_options": true,
+      "total_chars": 865
+    },
+    "sample_018": {
+      "file": "/home/liqinuo/Escape_LLM/LBSlist/articles/sample_018.txt",
+      "article_chars": 628,
+      "question_chars": 62,
+      "has_options": true,
+      "total_chars": 741
+    },
+    "sample_019": {
+      "file": "/home/liqinuo/Escape_LLM/LBSlist/articles/sample_019.txt",
+      "article_chars": 404,
+      "question_chars": 93,
+      "has_options": true,
+      "total_chars": 508
+    },
+    "sample_020": {
+      "file": "/home/liqinuo/Escape_LLM/LBSlist/articles/sample_020.txt",
+      "article_chars": 768,
+      "question_chars": 70,
+      "has_options": true,
+      "total_chars": 876
+    },
+    "sample_021": {
+      "file": "/home/liqinuo/Escape_LLM/LBSlist/articles/sample_021.txt",
+      "article_chars": 886,
+      "question_chars": 84,
+      "has_options": true,
+      "total_chars": 1005
+    },
+    "sample_022": {
+      "file": "/home/liqinuo/Escape_LLM/LBSlist/articles/sample_022.txt",
+      "article_chars": 875,
+      "question_chars": 66,
+      "has_options": true,
+      "total_chars": 969
+    },
+    "sample_023": {
+      "file": "/home/liqinuo/Escape_LLM/LBSlist/articles/sample_023.txt",
+      "article_chars": 805,
+      "question_chars": 114,
+      "has_options": true,
+      "total_chars": 905
+    },
+    "sample_024": {
+      "file": "/home/liqinuo/Escape_LLM/LBSlist/articles/sample_024.txt",
+      "article_chars": 774,
+      "question_chars": 69,
+      "has_options": true,
+      "total_chars": 841
+    },
+    "sample_025": {
+      "file": "/home/liqinuo/Escape_LLM/LBSlist/articles/sample_025.txt",
+      "article_chars": 441,
+      "question_chars": 84,
+      "has_options": true,
+      "total_chars": 550
+    },
+    "sample_026": {
+      "file": "/home/liqinuo/Escape_LLM/LBSlist/articles/sample_026.txt",
+      "article_chars": 441,
+      "question_chars": 57,
+      "has_options": true,
+      "total_chars": 536
+    },
+    "sample_027": {
+      "file": "/home/liqinuo/Escape_LLM/LBSlist/articles/sample_027.txt",
+      "article_chars": 799,
+      "question_chars": 68,
+      "has_options": true,
+      "total_chars": 890
+    },
+    "sample_028": {
+      "file": "/home/liqinuo/Escape_LLM/LBSlist/articles/sample_028.txt",
+      "article_chars": 973,
+      "question_chars": 112,
+      "has_options": true,
+      "total_chars": 1123
+    },
+    "sample_029": {
+      "file": "/home/liqinuo/Escape_LLM/LBSlist/articles/sample_029.txt",
+      "article_chars": 628,
+      "question_chars": 78,
+      "has_options": true,
+      "total_chars": 743
+    },
+    "sample_030": {
+      "file": "/home/liqinuo/Escape_LLM/LBSlist/articles/sample_030.txt",
+      "article_chars": 875,
+      "question_chars": 81,
+      "has_options": true,
+      "total_chars": 1088
+    },
+    "sample_031": {
+      "file": "/home/liqinuo/Escape_LLM/LBSlist/articles/sample_031.txt",
+      "article_chars": 557,
+      "question_chars": 67,
+      "has_options": true,
+      "total_chars": 662
+    },
+    "sample_032": {
+      "file": "/home/liqinuo/Escape_LLM/LBSlist/articles/sample_032.txt",
+      "article_chars": 706,
+      "question_chars": 77,
+      "has_options": true,
+      "total_chars": 818
+    },
+    "sample_033": {
+      "file": "/home/liqinuo/Escape_LLM/LBSlist/articles/sample_033.txt",
+      "article_chars": 609,
+      "question_chars": 81,
+      "has_options": true,
+      "total_chars": 764
+    },
+    "sample_034": {
+      "file": "/home/liqinuo/Escape_LLM/LBSlist/articles/sample_034.txt",
+      "article_chars": 900,
+      "question_chars": 85,
+      "has_options": true,
+      "total_chars": 1108
+    },
+    "sample_035": {
+      "file": "/home/liqinuo/Escape_LLM/LBSlist/articles/sample_035.txt",
+      "article_chars": 875,
+      "question_chars": 52,
+      "has_options": true,
+      "total_chars": 1009
+    },
+    "sample_036": {
+      "file": "/home/liqinuo/Escape_LLM/LBSlist/articles/sample_036.txt",
+      "article_chars": 484,
+      "question_chars": 89,
+      "has_options": true,
+      "total_chars": 581
+    },
+    "sample_037": {
+      "file": "/home/liqinuo/Escape_LLM/LBSlist/articles/sample_037.txt",
+      "article_chars": 878,
+      "question_chars": 85,
+      "has_options": true,
+      "total_chars": 989
+    },
+    "sample_038": {
+      "file": "/home/liqinuo/Escape_LLM/LBSlist/articles/sample_038.txt",
+      "article_chars": 1002,
+      "question_chars": 113,
+      "has_options": true,
+      "total_chars": 1124
+    },
+    "sample_039": {
+      "file": "/home/liqinuo/Escape_LLM/LBSlist/articles/sample_039.txt",
+      "article_chars": 571,
+      "question_chars": 72,
+      "has_options": true,
+      "total_chars": 670
+    },
+    "sample_040": {
+      "file": "/home/liqinuo/Escape_LLM/LBSlist/articles/sample_040.txt",
+      "article_chars": 702,
+      "question_chars": 67,
+      "has_options": true,
+      "total_chars": 825
+    },
+    "sample_041": {
+      "file": "/home/liqinuo/Escape_LLM/LBSlist/articles/sample_041.txt",
+      "article_chars": 463,
+      "question_chars": 73,
+      "has_options": true,
+      "total_chars": 605
+    },
+    "sample_042": {
+      "file": "/home/liqinuo/Escape_LLM/LBSlist/articles/sample_042.txt",
+      "article_chars": 696,
+      "question_chars": 107,
+      "has_options": true,
+      "total_chars": 763
+    },
+    "sample_043": {
+      "file": "/home/liqinuo/Escape_LLM/LBSlist/articles/sample_043.txt",
+      "article_chars": 922,
+      "question_chars": 75,
+      "has_options": true,
+      "total_chars": 1013
+    },
+    "sample_044": {
+      "file": "/home/liqinuo/Escape_LLM/LBSlist/articles/sample_044.txt",
+      "article_chars": 874,
+      "question_chars": 61,
+      "has_options": true,
+      "total_chars": 995
+    },
+    "sample_045": {
+      "file": "/home/liqinuo/Escape_LLM/LBSlist/articles/sample_045.txt",
+      "article_chars": 520,
+      "question_chars": 83,
+      "has_options": true,
+      "total_chars": 660
+    },
+    "sample_046": {
+      "file": "/home/liqinuo/Escape_LLM/LBSlist/articles/sample_046.txt",
+      "article_chars": 544,
+      "question_chars": 61,
+      "has_options": true,
+      "total_chars": 653
+    },
+    "sample_047": {
+      "file": "/home/liqinuo/Escape_LLM/LBSlist/articles/sample_047.txt",
+      "article_chars": 782,
+      "question_chars": 84,
+      "has_options": true,
+      "total_chars": 893
+    },
+    "sample_048": {
+      "file": "/home/liqinuo/Escape_LLM/LBSlist/articles/sample_048.txt",
+      "article_chars": 766,
+      "question_chars": 108,
+      "has_options": true,
+      "total_chars": 904
+    },
+    "sample_049": {
+      "file": "/home/liqinuo/Escape_LLM/LBSlist/articles/sample_049.txt",
+      "article_chars": 608,
+      "question_chars": 58,
+      "has_options": true,
+      "total_chars": 696
+    },
+    "sample_050": {
+      "file": "/home/liqinuo/Escape_LLM/LBSlist/articles/sample_050.txt",
+      "article_chars": 917,
+      "question_chars": 77,
+      "has_options": true,
+      "total_chars": 1027
+    },
+    "sample_051": {
+      "file": "/home/liqinuo/Escape_LLM/LBSlist/articles/sample_051.txt",
+      "article_chars": 908,
+      "question_chars": 45,
+      "has_options": true,
+      "total_chars": 991
+    },
+    "sample_052": {
+      "file": "/home/liqinuo/Escape_LLM/LBSlist/articles/sample_052.txt",
+      "article_chars": 619,
+      "question_chars": 78,
+      "has_options": true,
+      "total_chars": 743
+    },
+    "sample_053": {
+      "file": "/home/liqinuo/Escape_LLM/LBSlist/articles/sample_053.txt",
+      "article_chars": 438,
+      "question_chars": 62,
+      "has_options": true,
+      "total_chars": 577
+    },
+    "sample_054": {
+      "file": "/home/liqinuo/Escape_LLM/LBSlist/articles/sample_054.txt",
+      "article_chars": 884,
+      "question_chars": 111,
+      "has_options": true,
+      "total_chars": 1011
+    },
+    "sample_055": {
+      "file": "/home/liqinuo/Escape_LLM/LBSlist/articles/sample_055.txt",
+      "article_chars": 448,
+      "question_chars": 71,
+      "has_options": true,
+      "total_chars": 553
+    },
+    "sample_056": {
+      "file": "/home/liqinuo/Escape_LLM/LBSlist/articles/sample_056.txt",
+      "article_chars": 751,
+      "question_chars": 108,
+      "has_options": true,
+      "total_chars": 878
+    },
+    "sample_057": {
+      "file": "/home/liqinuo/Escape_LLM/LBSlist/articles/sample_057.txt",
+      "article_chars": 566,
+      "question_chars": 126,
+      "has_options": true,
+      "total_chars": 639
+    },
+    "sample_058": {
+      "file": "/home/liqinuo/Escape_LLM/LBSlist/articles/sample_058.txt",
+      "article_chars": 890,
+      "question_chars": 85,
+      "has_options": true,
+      "total_chars": 1012
+    },
+    "sample_059": {
+      "file": "/home/liqinuo/Escape_LLM/LBSlist/articles/sample_059.txt",
+      "article_chars": 708,
+      "question_chars": 60,
+      "has_options": true,
+      "total_chars": 878
+    },
+    "sample_060": {
+      "file": "/home/liqinuo/Escape_LLM/LBSlist/articles/sample_060.txt",
+      "article_chars": 694,
+      "question_chars": 101,
+      "has_options": true,
+      "total_chars": 765
+    },
+    "sample_061": {
+      "file": "/home/liqinuo/Escape_LLM/LBSlist/articles/sample_061.txt",
+      "article_chars": 723,
+      "question_chars": 69,
+      "has_options": true,
+      "total_chars": 929
+    },
+    "sample_062": {
+      "file": "/home/liqinuo/Escape_LLM/LBSlist/articles/sample_062.txt",
+      "article_chars": 432,
+      "question_chars": 46,
+      "has_options": true,
+      "total_chars": 545
+    },
+    "sample_063": {
+      "file": "/home/liqinuo/Escape_LLM/LBSlist/articles/sample_063.txt",
+      "article_chars": 809,
+      "question_chars": 112,
+      "has_options": true,
+      "total_chars": 960
+    },
+    "sample_064": {
+      "file": "/home/liqinuo/Escape_LLM/LBSlist/articles/sample_064.txt",
+      "article_chars": 481,
+      "question_chars": 68,
+      "has_options": true,
+      "total_chars": 548
+    },
+    "sample_065": {
+      "file": "/home/liqinuo/Escape_LLM/LBSlist/articles/sample_065.txt",
+      "article_chars": 534,
+      "question_chars": 46,
+      "has_options": true,
+      "total_chars": 605
+    },
+    "sample_066": {
+      "file": "/home/liqinuo/Escape_LLM/LBSlist/articles/sample_066.txt",
+      "article_chars": 569,
+      "question_chars": 115,
+      "has_options": true,
+      "total_chars": 728
+    },
+    "sample_067": {
+      "file": "/home/liqinuo/Escape_LLM/LBSlist/articles/sample_067.txt",
+      "article_chars": 640,
+      "question_chars": 53,
+      "has_options": true,
+      "total_chars": 726
+    },
+    "sample_068": {
+      "file": "/home/liqinuo/Escape_LLM/LBSlist/articles/sample_068.txt",
+      "article_chars": 955,
+      "question_chars": 74,
+      "has_options": true,
+      "total_chars": 1049
+    },
+    "sample_069": {
+      "file": "/home/liqinuo/Escape_LLM/LBSlist/articles/sample_069.txt",
+      "article_chars": 775,
+      "question_chars": 67,
+      "has_options": true,
+      "total_chars": 920
+    },
+    "sample_070": {
+      "file": "/home/liqinuo/Escape_LLM/LBSlist/articles/sample_070.txt",
+      "article_chars": 940,
+      "question_chars": 69,
+      "has_options": true,
+      "total_chars": 1007
+    },
+    "sample_071": {
+      "file": "/home/liqinuo/Escape_LLM/LBSlist/articles/sample_071.txt",
+      "article_chars": 418,
+      "question_chars": 61,
+      "has_options": true,
+      "total_chars": 525
+    },
+    "sample_072": {
+      "file": "/home/liqinuo/Escape_LLM/LBSlist/articles/sample_072.txt",
+      "article_chars": 385,
+      "question_chars": 90,
+      "has_options": true,
+      "total_chars": 539
+    },
+    "sample_073": {
+      "file": "/home/liqinuo/Escape_LLM/LBSlist/articles/sample_073.txt",
+      "article_chars": 636,
+      "question_chars": 79,
+      "has_options": true,
+      "total_chars": 772
+    },
+    "sample_074": {
+      "file": "/home/liqinuo/Escape_LLM/LBSlist/articles/sample_074.txt",
+      "article_chars": 765,
+      "question_chars": 101,
+      "has_options": true,
+      "total_chars": 951
+    },
+    "sample_075": {
+      "file": "/home/liqinuo/Escape_LLM/LBSlist/articles/sample_075.txt",
+      "article_chars": 404,
+      "question_chars": 74,
+      "has_options": true,
+      "total_chars": 599
+    },
+    "sample_076": {
+      "file": "/home/liqinuo/Escape_LLM/LBSlist/articles/sample_076.txt",
+      "article_chars": 872,
+      "question_chars": 75,
+      "has_options": true,
+      "total_chars": 989
+    },
+    "sample_077": {
+      "file": "/home/liqinuo/Escape_LLM/LBSlist/articles/sample_077.txt",
+      "article_chars": 898,
+      "question_chars": 89,
+      "has_options": true,
+      "total_chars": 1044
+    },
+    "sample_078": {
+      "file": "/home/liqinuo/Escape_LLM/LBSlist/articles/sample_078.txt",
+      "article_chars": 491,
+      "question_chars": 76,
+      "has_options": true,
+      "total_chars": 609
+    },
+    "sample_079": {
+      "file": "/home/liqinuo/Escape_LLM/LBSlist/articles/sample_079.txt",
+      "article_chars": 611,
+      "question_chars": 58,
+      "has_options": true,
+      "total_chars": 736
+    },
+    "sample_080": {
+      "file": "/home/liqinuo/Escape_LLM/LBSlist/articles/sample_080.txt",
+      "article_chars": 598,
+      "question_chars": 82,
+      "has_options": true,
+      "total_chars": 682
+    },
+    "sample_081": {
+      "file": "/home/liqinuo/Escape_LLM/LBSlist/articles/sample_081.txt",
+      "article_chars": 824,
+      "question_chars": 57,
+      "has_options": true,
+      "total_chars": 990
+    },
+    "sample_082": {
+      "file": "/home/liqinuo/Escape_LLM/LBSlist/articles/sample_082.txt",
+      "article_chars": 497,
+      "question_chars": 36,
+      "has_options": true,
+      "total_chars": 563
+    },
+    "sample_083": {
+      "file": "/home/liqinuo/Escape_LLM/LBSlist/articles/sample_083.txt",
+      "article_chars": 347,
+      "question_chars": 51,
+      "has_options": true,
+      "total_chars": 481
+    },
+    "sample_084": {
+      "file": "/home/liqinuo/Escape_LLM/LBSlist/articles/sample_084.txt",
+      "article_chars": 745,
+      "question_chars": 74,
+      "has_options": true,
+      "total_chars": 827
+    },
+    "sample_085": {
+      "file": "/home/liqinuo/Escape_LLM/LBSlist/articles/sample_085.txt",
+      "article_chars": 744,
+      "question_chars": 83,
+      "has_options": true,
+      "total_chars": 824
+    },
+    "sample_086": {
+      "file": "/home/liqinuo/Escape_LLM/LBSlist/articles/sample_086.txt",
+      "article_chars": 637,
+      "question_chars": 47,
+      "has_options": true,
+      "total_chars": 718
+    },
+    "sample_087": {
+      "file": "/home/liqinuo/Escape_LLM/LBSlist/articles/sample_087.txt",
+      "article_chars": 723,
+      "question_chars": 56,
+      "has_options": true,
+      "total_chars": 839
+    },
+    "sample_088": {
+      "file": "/home/liqinuo/Escape_LLM/LBSlist/articles/sample_088.txt",
+      "article_chars": 800,
+      "question_chars": 66,
+      "has_options": true,
+      "total_chars": 924
+    },
+    "sample_089": {
+      "file": "/home/liqinuo/Escape_LLM/LBSlist/articles/sample_089.txt",
+      "article_chars": 670,
+      "question_chars": 94,
+      "has_options": true,
+      "total_chars": 787
+    },
+    "sample_090": {
+      "file": "/home/liqinuo/Escape_LLM/LBSlist/articles/sample_090.txt",
+      "article_chars": 683,
+      "question_chars": 104,
+      "has_options": true,
+      "total_chars": 833
+    },
+    "sample_091": {
+      "file": "/home/liqinuo/Escape_LLM/LBSlist/articles/sample_091.txt",
+      "article_chars": 991,
+      "question_chars": 92,
+      "has_options": true,
+      "total_chars": 1085
+    },
+    "sample_092": {
+      "file": "/home/liqinuo/Escape_LLM/LBSlist/articles/sample_092.txt",
+      "article_chars": 416,
+      "question_chars": 55,
+      "has_options": true,
+      "total_chars": 558
+    },
+    "sample_093": {
+      "file": "/home/liqinuo/Escape_LLM/LBSlist/articles/sample_093.txt",
+      "article_chars": 874,
+      "question_chars": 117,
+      "has_options": true,
+      "total_chars": 935
+    },
+    "sample_094": {
+      "file": "/home/liqinuo/Escape_LLM/LBSlist/articles/sample_094.txt",
+      "article_chars": 904,
+      "question_chars": 76,
+      "has_options": true,
+      "total_chars": 1001
+    },
+    "sample_095": {
+      "file": "/home/liqinuo/Escape_LLM/LBSlist/articles/sample_095.txt",
+      "article_chars": 790,
+      "question_chars": 52,
+      "has_options": true,
+      "total_chars": 904
+    },
+    "sample_096": {
+      "file": "/home/liqinuo/Escape_LLM/LBSlist/articles/sample_096.txt",
+      "article_chars": 455,
+      "question_chars": 74,
+      "has_options": true,
+      "total_chars": 526
+    },
+    "sample_097": {
+      "file": "/home/liqinuo/Escape_LLM/LBSlist/articles/sample_097.txt",
+      "article_chars": 992,
+      "question_chars": 92,
+      "has_options": true,
+      "total_chars": 1080
+    },
+    "sample_098": {
+      "file": "/home/liqinuo/Escape_LLM/LBSlist/articles/sample_098.txt",
+      "article_chars": 626,
+      "question_chars": 83,
+      "has_options": true,
+      "total_chars": 768
+    },
+    "sample_099": {
+      "file": "/home/liqinuo/Escape_LLM/LBSlist/articles/sample_099.txt",
+      "article_chars": 786,
+      "question_chars": 57,
+      "has_options": true,
+      "total_chars": 876
+    },
+    "sample_100": {
+      "file": "/home/liqinuo/Escape_LLM/LBSlist/articles/sample_100.txt",
+      "article_chars": 767,
+      "question_chars": 53,
+      "has_options": true,
+      "total_chars": 854
+    }
+  }
+}

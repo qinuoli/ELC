@@ -1,0 +1,14 @@
+[ID]
+sample_053
+
+[ARTICLE]
+The 57th Boat Race took place on 31 March 1900 . Held annually , the Boat Race is a side @-@ by @-@ side rowing race between crews from the Universities of Oxford and Cambridge along the River Thames . Cambridge won by twenty lengths in a record @-@ equalling time of 18 minutes 45 seconds , taking the overall record in the event to 32 – 24 in Oxford 's favour .
+
+[QUESTION]
+What was the time recorded by Cambridge in the 57th Boat Race?
+
+[OPTIONS]
+A. 18 minutes 45 seconds
+B. 17 minutes 55 seconds
+C. 18 minutes 30 seconds
+D. 19 minutes 10 seconds

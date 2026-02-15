@@ -1,0 +1,14 @@
+[ID]
+sample_030
+
+[ARTICLE]
+Nathan earned his first save at Target Field on April 8 , 2011 . He emptied the container of dirt he took from the Metrodome on the mound at Target Field before pitching . On April 18 , Nathan was replaced at closer by Matt Capps after going 3 for 5 in save opportunities . On May 28 , 2011 , Nathan was placed on the 15 @-@ day disabled list with a right flexor muscle strain . Chuck James was called up to take his place . On August 10 , 2011 , against the Boston Red Sox , Nathan became the Twins all @-@ time saves leader with 255 , passing Rick Aguilera . After the Twins declined his $ 12 @.@ 5 million club option and exercised a $ 2 million buyout , Nathan became a free agent at the end of the 2011 season . Nathan is currently the Minnesota Twins leader in career saves .
+
+[QUESTION]
+What milestone did Nathan achieve on August 10, 2011, against the Boston Red Sox?
+
+[OPTIONS]
+A. Became the Twins all-time saves leader with 255
+B. Earned his first save at Target Field
+C. Was placed on the 15-day disabled list
+D. Signed a new contract with the Twins

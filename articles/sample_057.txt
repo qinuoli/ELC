@@ -1,0 +1,14 @@
+[ID]
+sample_057
+
+[ARTICLE]
+A 2006 report , The Economics of Mass Surveillance calculated that the use of FITs at mass gatherings involves gathering intelligence on roughly 1 @,@ 200 people to record the actions of one person . The report also noted that most of the people on " spotter cards " , used by the police photographers , were those involved in the organisation of protests and that FITs also attend meetings where demonstrations are organised .
+
+[QUESTION]
+According to the 2006 report, how many people are typically monitored by FITs for every one person whose actions are recorded?
+
+[OPTIONS]
+A. 1,200
+B. 2,400
+C. 600
+D. 3,000

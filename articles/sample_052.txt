@@ -1,0 +1,14 @@
+[ID]
+sample_052
+
+[ARTICLE]
+Since being founded as an expansion team , the Blue Jackets have played in the Central Division of the Western Conference . Division rivals Chicago Blackhawks , Detroit Red Wings , Nashville Predators and St. Louis Blues , all made the playoff during the 2011 – 12 season , which helped Columbus finish 36 points behind fourth place Chicago and 44 points out of first . Divisions : CE – Central , NW – Northwest , PA – Pacific bold - qualified for playoffs , y – Won division , p – Won Presidents ' Trophy ( best record in NHL )
+
+[QUESTION]
+Which team did the Blue Jackets finish 36 points behind in the 2011–12 season?
+
+[OPTIONS]
+A. St. Louis Blues
+B. Chicago Blackhawks
+C. Nashville Predators
+D. Detroit Red Wings

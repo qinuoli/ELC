@@ -1,0 +1,14 @@
+[ID]
+sample_015
+
+[ARTICLE]
+Yeovil Town FA Trophy : 2001 – 02 Football Conference : 2002 – 03 Hereford United Conference National play @-@ offs : 2006 Exeter City Conference National play @-@ offs : 2008 England semi @-@ professional Four Nations Tournament : 2005
+
+[QUESTION]
+In which year did Yeovil Town win the FA Trophy?
+
+[OPTIONS]
+A. 2001 – 02
+B. 2002 – 03
+C. 2008
+D. 2006

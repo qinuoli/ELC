@@ -1,0 +1,14 @@
+[ID]
+sample_092
+
+[ARTICLE]
+All tracks were produced by Greg Kurstin , with vocal production on " Every Christmas " made by Jason Halbert . Note " Just for Now " contains a portion of the composition " Carol of the Bells " , written by Peter J. Wilhousky . Tracks from the concert DVD were filmed from the television special Kelly Clarkson 's Cautionary Christmas Music Tale .
+
+[QUESTION]
+Which track includes a portion of 'Carol of the Bells'?
+
+[OPTIONS]
+A. Greg Kurstin
+B. Kelly Clarkson's Cautionary Christmas Music Tale
+C. Every Christmas
+D. Just for Now

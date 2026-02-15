@@ -1,0 +1,14 @@
+[ID]
+sample_080
+
+[ARTICLE]
+Reactions of sulfur ylides with ketones and aldehydes to form epoxides are by far the most common application of the Johnson – Corey – Chaykovsky reaction . Examples involving complex substrates and ' exotic ' ylides have been reported , as shown below . The reaction has been used in a number of notable total syntheses including the Danishefsky Taxol total synthesis , which produces the chemotherapeutic drug taxol , and the Kuehne Strychnine total synthesis which produces the pesticide strychnine .
+
+[QUESTION]
+Which chemotherapeutic drug was produced in the Danishefsky Taxol total synthesis?
+
+[OPTIONS]
+A. strychnine
+B. ylides
+C. taxol
+D. epoxides

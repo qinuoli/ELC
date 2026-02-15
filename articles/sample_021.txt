@@ -1,0 +1,14 @@
+[ID]
+sample_021
+
+[ARTICLE]
+Mutinus elegans is saprobic — deriving nutrients by breaking down dead or dying organic matter . It is commonly found in gardens and farm areas enriched with manure , near well @-@ decayed stumps and logs , and in wood chips . A Japanese publication mentioned its occurrence in Takatsuki and Osaka @-@ fu , where it fruited in November and December on the ground along paths or in open spaces , under or near bamboo ( Phyllostachys bambusoides ) and hardwoods such as the Sawtooth Oak , the Japanese Zelkova , and the Camphor tree . This common species has been collected in eastern North America , in the area extending from Quebec to Florida and west to the Great Lakes , Iowa , and Texas . In Europe , it has been reported from Netherlands and in Asia , it has been collected in Japan .
+
+[QUESTION]
+In which region has Mutinus elegans been reported to fruit in November and December?
+
+[OPTIONS]
+A. Takatsuki and Osaka fu
+B. Iowa and Texas
+C. Quebec to Florida
+D. Netherlands
