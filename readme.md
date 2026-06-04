@@ -24,10 +24,34 @@ The underlying content pipeline remains the same:
 4. The article-to-image/key mapping is written to `article_key_mapping.txt`
 5. Run `app.py`
 
+## Encryption
+
+`en.py` converts plaintext article files into ELC-protected PNG artifacts.
+
+Inputs:
+
+- `article/*.txt`: plaintext article files
+- `input_image.png`: carrier image used for LSB embedding
+
+Outputs:
+
+- `encoded_images/*.png`: encrypted stego images
+- `article_key_mapping.txt`: article name, image path, AES key, and payload length
+
+Run the encryption step with:
+
+```bash
+cd /mnt/shared-storage-user/liqinuo/ELC/ELC
+source .venv/bin/activate
+python en.py
+```
+
+After `en.py` finishes, start the website with `python app.py`.
+
 ## Setup
 
 ```bash
-cd /mnt/shared-storage-user/liqinuo/ELC/ELC_v2
+cd /mnt/shared-storage-user/liqinuo/ELC/ELC
 python3 -m venv .venv
 source .venv/bin/activate
 python -m pip install --upgrade pip
@@ -37,7 +61,7 @@ pip install -r requirements.txt
 ## Run
 
 ```bash
-cd /mnt/shared-storage-user/liqinuo/ELC/ELC_v2
+cd /mnt/shared-storage-user/liqinuo/ELC/ELC
 source .venv/bin/activate
 python app.py
 ```
