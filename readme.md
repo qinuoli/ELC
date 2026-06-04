@@ -24,6 +24,17 @@ The underlying content pipeline remains the same:
 4. The article-to-image/key mapping is written to `article_key_mapping.txt`
 5. Run `app.py`
 
+## Environment
+
+- Python: `3.13.5`
+- Verified local virtual environment: `.venv`
+- Main dependencies:
+  - `Flask`
+  - `Pillow`
+  - `cryptography`
+
+If you use a different Python 3 version, recreate `.venv` and reinstall dependencies with `pip install -r requirements.txt`.
+
 ## Encryption
 
 `en.py` converts plaintext article files into ELC-protected PNG artifacts.
