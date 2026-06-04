@@ -1,18 +1,48 @@
-# ELC: Anti-AI Crawling Web Application
+# ELC Demo
 
-ELC is a web application combining **AES-GCM encryption** and **LSB steganography** technology, designed to prevent automatic content crawling by AI models. By embedding encrypted data into images, information can only be read after decryption via client-side (rendering layer) JavaScript, significantly enhancing content protection. This project is suitable for displaying multiple articles, where the ciphertext of each article is embedded into an image file.
+This directory contains the conference demo variant built from `ELC_cleanup_compare_view`.
 
-## Core Features
-- Encrypt text content using **AES-GCM encryption** algorithm for secure data protection.
-- Embed encrypted ciphertext into the **Least Significant Bit (LSB)** of images, using images as the storage medium for ciphertext.
-- Decrypt ciphertext from images via front-end JavaScript, avoiding exposure of sensitive data on the backend.
-- Support display and decryption of multiple articles simultaneously.
+## Pages
 
-## Usage Notes
-1. Place new article text files into the `article/` directory.
-2. Run `en.py` to:
-   - Generate AES-GCM encryption keys for new articles
-   - Embed encrypted ciphertext into images (stored in `encoded_images/`)
-   - Update the mapping relationship in `article_key_mapping.txt`
-3. Start the web application with `app.py` to serve the protected articles.
-4. Clients will decrypt the image-embedded ciphertext via front-end JavaScript to view the original content.
+1. `http://127.0.0.1:5000/`
+   - `Protected Website`
+   - human-facing website experience
+   - readable content restored through client-side rendering
+
+2. `http://127.0.0.1:5000/principle`
+   - `Principle`
+   - recovery workflow demonstration
+   - `LLM-facing View` and `Human-readable View`
+
+## Workflow
+
+The underlying content pipeline remains the same:
+
+1. Put plaintext article files in `article/`
+2. Run `en.py`
+3. Generated encrypted stego images are written to `encoded_images/`
+4. The article-to-image/key mapping is written to `article_key_mapping.txt`
+5. Run `app.py`
+
+## Setup
+
+```bash
+cd /mnt/shared-storage-user/liqinuo/ELC/ELC_v2
+python3 -m venv .venv
+source .venv/bin/activate
+python -m pip install --upgrade pip
+pip install -r requirements.txt
+```
+
+## Run
+
+```bash
+cd /mnt/shared-storage-user/liqinuo/ELC/ELC_v2
+source .venv/bin/activate
+python app.py
+```
+
+Then open:
+
+- `http://127.0.0.1:5000/`
+- `http://127.0.0.1:5000/principle`

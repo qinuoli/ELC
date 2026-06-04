@@ -1,5 +1,5 @@
 ARTICLE_NAME	IMAGE_PATH	AES_KEY_B64	PAYLOAD_LEN
-articles_with_id.txt	./encoded_images/articles_with_id.png	dT6BSpKu04c98TBGb3l3cA==	59098
-About Magnanimous-Incident Literature.txt	./encoded_images/About Magnanimous-Incident Literature.png	cCpTTPQ9PTpCS4kdm8rYyw==	13246
-A Child's Biography.txt	./encoded_images/A Child's Biography.png	+jGBdCxT6tDO3hbvys6Cjg==	7126
-春江花月夜.txt	./encoded_images/春江花月夜.png	UWtcaSWgrZcQtHE1tKJsmQ==	2824
+Neighborhood Book Exchange.txt	./encoded_images/Neighborhood Book Exchange.png	+xorNcwBePLs35PtMlx+Ng==	977
+Quiet Museum Guide.txt	./encoded_images/Quiet Museum Guide.png	ma3iRv4VfTRQTE0r/JTfqg==	1124
+Studio Launch Notes.txt	./encoded_images/Studio Launch Notes.png	8T1s2KRlAFZCjcaHFA5h5Q==	1012
+City Rain Observation.txt	./encoded_images/City Rain Observation.png	F6tmSa9rXhfKrr1JyCipzg==	1068
